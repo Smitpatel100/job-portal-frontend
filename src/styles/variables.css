@@ -1,0 +1,12 @@
+:root {
+  --primary: #2563eb;
+  --secondary: #1e293b;
+  --success: #16a34a;
+  --danger: #dc2626;
+  --warning: #f59e0b;
+  --gray-light: #f3f4f6;
+  --gray-border: #e5e7eb;
+
+  --radius: 10px;
+  --transition: all 0.3s ease;
+}
