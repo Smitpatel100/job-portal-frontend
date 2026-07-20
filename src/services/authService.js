@@ -6,4 +6,3 @@ export const login = (email, password) => {
     password: password
   });
 };
-
